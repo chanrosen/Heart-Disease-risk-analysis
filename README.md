@@ -1,2 +1,61 @@
-# Heart-Disease-risk-analysis
-Exploratory Data Analysis of heart disease risk factors using Python, Pandas, Plotly, and Tableau. The project explores patterns and relationships between heart disease and demographic, lifestyle, and health-related factors.
+# 🫀 Key Indicators of Heart Disease in the US (2022)
+### Exploratory Data Analysis (EDA) & Risk Factor Identification
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data_Viz-3776AB?style=for-the-badge)
+
+---
+
+## 📌 Executive Summary
+This project delivers a comprehensive Exploratory Data Analysis (EDA) investigating the demographic, geographic, and lifestyle determinants associated with heart attack prevalence across the United States. 
+
+By analyzing **246,022 individual health surveys** from the **2022 CDC Behavioral Risk Factor Surveillance System (BRFSS)**, this analysis uncovers critical spatial variations, age-specific risk elevations, and lifestyle correlations to help inform targeted public health interventions.
+
+---
+
+## 🔍 Key Insights & Findings
+
+* **Geographic Disparities:** Southeastern states consistently demonstrate higher heart attack prevalence compared to West Coast states, highlighting potential regional socioeconomic and dietary pattern influences.
+* **Young Adult Risk Clusters:** Identified distinct states where heart disease prevalence among young adults (<50 years old) disproportionately exceeds national baselines.
+* **Ethnic Distribution:** Significant variance in racial/ethnic composition among early-onset heart disease cases across top-risk states, emphasizing the need for tailored community health initiatives.
+* **Clinical Factors:** Strong positive correlation observed between Angina diagnosis and subsequent heart attack incidence.
+
+---
+
+## 🛠️ Dataset Overview
+
+| Attribute | Details |
+| :--- | :--- |
+| **Data Source** | CDC BRFSS 2022 (via Kaggle) |
+| **Sample Size** | 246,022 observations |
+| **Features** | 40 variables (Demographics, Medical History, Lifestyle) |
+| **Data Quality** | Fully cleaned dataset without missing values |
+
+---
+
+## 📊 Analytical Methodology & Pipeline
+
+1. **Data Preprocessing & Transformation:**
+   * Feature engineering (state abbreviation mapping, age category binning).
+   * Filtering and cross-tabulation for subgroup populations (e.g., adults under 50 with positive heart attack records).
+2. **Geographic & Choropleth Mapping:**
+   * Interactive US state-level heatmaps built using `Plotly Express`.
+   * Top/Bottom regional comparative bar charts.
+3. **Cross-Sectional Subgroup Analysis:**
+   * Proportion calculations of heart attack occurrences stratified by age categories, race/ethnicity, and medical history.
+
+---
+
+## 💻 Tech Stack & Libraries
+
+* **Data Processing:** `Python`, `Pandas`, `NumPy`
+* **Visualization:** `Plotly Express`, `Seaborn`, `Matplotlib`
+
+---
+
+## 👩‍💻 Author
+**Chani Rosenbaum**  
+*Data Analyst*  
+[LinkedIn](www.linkedin.com/in/chani-rosenbaum-837172365)
