@@ -1,10 +1,9 @@
 # 🫀 Key Indicators of Heart Disease in the US (2022)
 ### Exploratory Data Analysis (EDA) & Risk Factor Identification
 
-🔗 **[🚀 Launch Interactive Notebook in Google Colab]([https://colab.research.google.com/drive/1SjJ7u3CpDxfkcTjiT04h9J1KQ1VyX2_Q?usp=sharing](https://colab.research.google.com/drive/1SjJ7u3CpDxfkcTjiT04h9J1KQ1VyX2_Q?usp=sharing))**
+🔗 **[🚀 Launch Interactive Notebook in Google Colab](https://colab.research.google.com/drive/1SjJ7u3CpDxfkcTjiT04h9J1KQ1VyX2_Q?usp=sharing)(https://colab.research.google.com/drive/1SjJ7u3CpDxfkcTjiT04h9J1KQ1VyX2_Q?usp=sharing)**
 
 **Tech Stack:** `Python` | `Pandas` | `Plotly` | `Seaborn` | `Matplotlib`
-
 ---
 ---
 ---
