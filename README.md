@@ -1,12 +1,14 @@
 # 🫀 Key Indicators of Heart Disease in the US (2022)
 ### Exploratory Data Analysis (EDA) & Risk Factor Identification
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SjJ7u3CpDxfkcTjiT04h9J1KQ1VyX2_Q?usp=sharing)
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Data_Viz-3776AB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data_Viz-3776AB?style=flat)
 
+---
 ---
 
 ## 📌 Executive Summary
