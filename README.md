@@ -58,4 +58,4 @@ By analyzing **246,022 individual health surveys** from the **2022 CDC Behaviora
 ## 👩‍💻 Author
 **Chani Rosenbaum**  
 *Data Analyst*  
-[LinkedIn](www.linkedin.com/in/chani-rosenbaum-837172365)
+[LinkedIn](https://www.linkedin.com/in/chani-rosenbaum-837172365/?skipRedirect=true)
